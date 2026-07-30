@@ -7,7 +7,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-A Generative Adversarial Network trained to synthesize realistic human face images, built with PyTorch and trained on Kaggle. This repo documents **two architecture approaches**, trained and compared honestly — including what worked, what didn't, and what's still unfinished.
+A Generative Adversarial Network trained to synthesize realistic human face images, built with PyTorch and trained on Kaggle. This repo documents **two architecture approaches**, trained and compared honestly - including what worked, what didn't, and what's still unfinished.
 
 > 🚀 **Live Kaggle Notebook & App:** [gan-human-face-generation-app](https://www.kaggle.com/code/abdelhameednasr/gan-human-face-generation-app)  
 > 📦 **Trained Checkpoints (`.pth`):** [face-gan-checkpoints](https://www.kaggle.com/models/abdelhameednasr/face-gan-checkpoints)
